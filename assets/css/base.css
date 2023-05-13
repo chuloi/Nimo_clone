@@ -1,0 +1,40 @@
+:root {
+    --height-header: 60px;
+    --background-color:#fff;
+    --white-color: #fff;
+    --text-color:#5a5a5a;
+
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.margin-left {
+    margin-left: 8px !important;
+}
+
+.margin-top {
+    margin-top: 32px !important;
+}
+
+
+.bdrbtlr {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 9px;
+}

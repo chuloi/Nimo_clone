@@ -1,0 +1,27 @@
+@media (max-width:1472px) {
+    /* header */
+    .header__live-stream {
+        display: none;
+    }
+    .header__deposit {
+        display: none;
+    }
+
+    .hidden-element {
+        display: none;
+    }
+}
+
+
+@media (max-width: 1480px) {
+    .container__slider {
+        height: 560px;
+    }
+
+    .slider__content {
+        width: 1000px;
+    }
+    .slider__list {
+        width: 136px;
+    }
+}
